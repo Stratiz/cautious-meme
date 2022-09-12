@@ -1,1 +1,3 @@
-# Text Editor Starter Code
+# Text Editor application
+
+Uses webpack and can deliver an offline website
